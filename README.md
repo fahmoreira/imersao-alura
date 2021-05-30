@@ -17,6 +17,7 @@ c: Viabilidade celular -  A viabilidade celular é uma medida da proporção de 
 # Educadores
 
 Listei abaixo os educadores respondesáveis por toda o conteúdo ministrado.
+
 https://www.linkedin.com/in/guilhermeazevedosilveira/
 
 https://www.linkedin.com/in/vanessa-leiko-oikawa-cardoso/
